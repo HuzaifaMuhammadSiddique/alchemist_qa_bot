@@ -1,0 +1,16 @@
+langchain
+
+# interface
+streamlit
+
+# embedding model
+langchain_huggingface
+
+# vector store
+langchain_chroma
+
+# document reader
+pypdf
+
+# interface
+streamlit
